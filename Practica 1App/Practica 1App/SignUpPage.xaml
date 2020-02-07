@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Practica_1App.SignUpPage">
+    <ScrollView>
+        <Grid Padding="20,20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="60"/>
+
+
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Label  Text="Sign Up" 
+                FontSize="30"
+                FontAttributes="Bold"
+                TextColor="Black"
+                Grid.Row="0"  
+                Grid.Column="0"
+                Grid.ColumnSpan="2"
+                />
+
+            <Label Text="Login"
+                   HorizontalOptions="End"
+                   HorizontalTextAlignment="End"
+                   Grid.Row="0"
+                   Grid.Column="4"
+                   FontSize="20"
+                   Margin="0,10,0,0"
+                  />
+
+            <Image Source="descarga"
+                   Grid.Row="1"
+                   Grid.Column="1"
+                   Grid.ColumnSpan="3"
+                  />
+
+            <Entry Placeholder="Email Address"
+                   Grid.Row="2"
+                   Grid.Column="1"
+                   Grid.ColumnSpan="3"
+                />
+            <Entry Placeholder="Username"
+                   Grid.Row="3"
+                   Grid.Column="1"
+                   Grid.ColumnSpan="3"
+                />
+            <Entry Placeholder="Password"
+                   IsPassword="True"
+                   Grid.Row="4"
+                   Grid.Column="1"
+                   Grid.ColumnSpan="3"
+                />
+            <Entry Placeholder="Repeat Password"
+                   IsPassword="True"
+                   Grid.Row="5"
+                   Grid.Column="1"
+                   Grid.ColumnSpan="3"
+                />
+            <Button Text="Sign Up"
+                   Grid.Row="6"
+                   Grid.Column="1"
+                   Grid.ColumnSpan="3"
+                />
+            <Label VerticalTextAlignment="End"
+                   Text=" Terms of service"
+                   HorizontalTextAlignment="Center"
+                   Grid.Row="7"
+                   Grid.Column="1"
+                   Grid.ColumnSpan="3"
+                   />
+
+
+        </Grid>
+    </ScrollView>
+</ContentPage>

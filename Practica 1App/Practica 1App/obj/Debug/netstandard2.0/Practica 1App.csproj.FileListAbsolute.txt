@@ -1,0 +1,13 @@
+C:\Users\vladi\source\repos\Practica 1App\Practica 1App\Practica 1App\obj\Debug\netstandard2.0\Practica 1App.csprojAssemblyReference.cache
+C:\Users\vladi\source\repos\Practica 1App\Practica 1App\Practica 1App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\vladi\source\repos\Practica 1App\Practica 1App\Practica 1App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\vladi\source\repos\Practica 1App\Practica 1App\Practica 1App\obj\Debug\netstandard2.0\Practica 1App.AssemblyInfoInputs.cache
+C:\Users\vladi\source\repos\Practica 1App\Practica 1App\Practica 1App\obj\Debug\netstandard2.0\Practica 1App.AssemblyInfo.cs
+C:\Users\vladi\source\repos\Practica 1App\Practica 1App\Practica 1App\bin\Debug\netstandard2.0\Practica 1App.deps.json
+C:\Users\vladi\source\repos\Practica 1App\Practica 1App\Practica 1App\bin\Debug\netstandard2.0\Practica 1App.dll
+C:\Users\vladi\source\repos\Practica 1App\Practica 1App\Practica 1App\bin\Debug\netstandard2.0\ref\Practica 1App.dll
+C:\Users\vladi\source\repos\Practica 1App\Practica 1App\Practica 1App\bin\Debug\netstandard2.0\Practica 1App.pdb
+C:\Users\vladi\source\repos\Practica 1App\Practica 1App\Practica 1App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\vladi\source\repos\Practica 1App\Practica 1App\Practica 1App\obj\Debug\netstandard2.0\Practica 1App.dll
+C:\Users\vladi\source\repos\Practica 1App\Practica 1App\Practica 1App\obj\Debug\netstandard2.0\ref\Practica 1App.dll
+C:\Users\vladi\source\repos\Practica 1App\Practica 1App\Practica 1App\obj\Debug\netstandard2.0\Practica 1App.pdb
